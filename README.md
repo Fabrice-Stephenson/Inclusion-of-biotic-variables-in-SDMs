@@ -1,6 +1,9 @@
 README
+
 The following readme describes the structure of the R code used for the manuscript titled "Inclusion of biotic variables improves predictions of environmental niche models"
 authored by Fabrice Stephenson, Rebecca V. Gladstone-Gallagher, Richard H. Bulmer, Simon F. Thrush and Judi E. Hewitt. 
+
+Available at: https://doi.org/10.1111/ddi.13546 
 
 An ODMAP (Overview, Data, Model, Assessment and Prediction) standardized protocol is provided in the Appendix of the journal article "Inclusion of biotic variables improves predictions of environmental niche models"
 
